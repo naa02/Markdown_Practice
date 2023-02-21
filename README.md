@@ -33,3 +33,13 @@ Markdown _연습_
 
 ## Escaping Backticks
 ``안녕하세요, `Chloe` 입니다.``
+
+## Links
+Markdown & Git 연습중인 [Chloe의 GitHub](https://github.com/naa02)
+
+## URLs and Email Addresses
+<https://github.com/naa02>
+
+## Formatting Links
+Markdown & Git 연습중인 ***[Chloe의 GitHub](https://github.com/naa02)***
+
