@@ -26,3 +26,7 @@ Markdown _연습_
     - Markdown 연습3-1
     - Markdown 연습3-2
 4. Markdown 연습4
+
+## Code
+안녕하세요, Chloe 입니다.
+`안녕하세요, Chloe 입니다.`
