@@ -30,3 +30,6 @@ Markdown _연습_
 ## Code
 안녕하세요, Chloe 입니다.
 `안녕하세요, Chloe 입니다.`
+
+## Escaping Backticks
+``안녕하세요, `Chloe` 입니다.``
