@@ -56,7 +56,5 @@ Markdown & Git 연습중인 ***[Chloe의 GitHub](https://github.com/naa02)***
 - [x] 예습
 - [x] 복습
 
-## Mentioning people and teams
-@github/naa02 어떻게 생각하세요?
 
 
