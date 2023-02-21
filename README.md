@@ -50,4 +50,11 @@ Markdown & Git 연습중인 ***[Chloe의 GitHub](https://github.com/naa02)***
 2.
 ![pp](https://user-images.githubusercontent.com/52957277/220270579-616e0277-0d7a-4be6-a57c-765b39277cec.jpeg) > 성공
 
+## Task lists
+- [] markdown
+- [] git
+- [x] 예습
+- [x] 복습
+
+
 
