@@ -43,3 +43,6 @@ Markdown & Git 연습중인 [Chloe의 GitHub](https://github.com/naa02)
 ## Formatting Links
 Markdown & Git 연습중인 ***[Chloe의 GitHub](https://github.com/naa02)***
 
+## Images
+![Bear!](/Users/nlee/Desktop/pp.jpeg "bear")
+
