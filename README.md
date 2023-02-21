@@ -44,8 +44,10 @@ Markdown & Git 연습중인 [Chloe의 GitHub](https://github.com/naa02)
 Markdown & Git 연습중인 ***[Chloe의 GitHub](https://github.com/naa02)***
 
 ## Images
+1.
 ![Bear!](/Users/nlee/Desktop/pp.jpeg "bear") > 실패
 
-![pp](https://user-images.githubusercontent.com/52957277/220270579-616e0277-0d7a-4be6-a57c-765b39277cec.jpeg)
+2.
+![pp](https://user-images.githubusercontent.com/52957277/220270579-616e0277-0d7a-4be6-a57c-765b39277cec.jpeg) > 성공
 
 
